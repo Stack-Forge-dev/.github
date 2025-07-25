@@ -48,7 +48,7 @@ We welcome all passionate developers — from total beginners to tech veterans.
 
 <div style="background-color: white; padding: 20px; border-radius: 8px;">
 
-> 1. Visit: https://github.com/orgs/Stack-Forge-Dev/people  
+> 1. Visit: [people](https://github.com/orgs/Stack-Forge-Dev/people)  
 > 2. Search for your GitHub username.  
 > 3. If it says `Private`, change it to `Public` to proudly show you're a member.  
 > 4. That's it — welcome aboard!  
