@@ -40,8 +40,8 @@ We welcome all passionate developers — from total beginners to tech veterans.
 
 1. Go to the [Issues tab](https://github.com/Stack-Forge-dev/.github/issues).
 2. Click **"New issue"**.
-3. Select the **"Join Stack-Forge-Dev"** template and fill in your details.
-4. Wait for a confirmation/invite by email.
+3. Select the **"Join Stack-Forge-Dev"** template and fill in your details and create.
+4. Wait for an invitation email.
 5. After joining, **set your org visibility to Public** (see below).
 
 ### 🔓 Set Your Membership to Public
